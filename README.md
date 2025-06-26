@@ -31,3 +31,4 @@ A secure **command-line utility** built in Python for file encryption and decryp
 5.	Run the tool:
 6.	python encrypt_tool.py
                o	Follow the interactive prompts to encrypt or decrypt files.
+
